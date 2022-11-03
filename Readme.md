@@ -1,8 +1,8 @@
 # PERTEMUAN 6 
 
-**| Nama : HERLIYANSYAH   | NIM : 312010387       |**
-**|-----------------------|-----------------------|**
-**| Kelas : TI.20.A.2     | KRIPTOGRAFI           |**
+| Nama : HERLIYANSYAH   | NIM : 312010387       |
+|-----------------------|-----------------------|
+| Kelas : TI.20.A.2     | KRIPTOGRAFI           |
 
 ## Lakukan Enkripsi Playfair Chiper dengan kalimat beriku
 
